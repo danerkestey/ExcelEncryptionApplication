@@ -1,4 +1,4 @@
-# Excel Encryption Application
+# Excel Encryption Application (Crazy 'Cryption)
 
 ## Description:
 
